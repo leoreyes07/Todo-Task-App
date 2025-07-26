@@ -1,7 +1,8 @@
 .EmptyTodo {
   display: grid;
   place-items: center;
-  font-size: 2.4rem;
+  font-size: 1.5rem;
   font-weight: bold;
+  margin-top: 12rem;
   color: #1E1E1F;
 }

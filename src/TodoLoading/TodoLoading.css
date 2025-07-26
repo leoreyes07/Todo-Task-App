@@ -1,14 +1,14 @@
 .loader {
   display: flex;
   margin: auto;
-  margin-top: 15rem;
+  margin-top: 10rem;
 }
 .loader, .loader:before, .loader:after {
   border-radius: 50%;
-  width: 2.3em;
-  height: 2.3em;
+  width: 1.5em;
+  height: 1.5em;
   animation-fill-mode: both;
-  animation: bblFadInOut 1.8s infinite ease-in-out;
+  animation: bblFadInOut 1.5s infinite ease-in-out;
 }
 .loader {
   color: #61dafa;
