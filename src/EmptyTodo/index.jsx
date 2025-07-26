@@ -4,7 +4,7 @@ import './EmptyTodo.css';
 
 function EmptyTodo() {
   return (
-      <h1 className="EmptyTodo">Create you first TO-DO!</h1>
+      <h1 className="EmptyTodo">Create your first TO-DO!</h1>
     );
   }
 
