@@ -12,6 +12,9 @@ Responsive Design: Works well on various screen sizes (desktop, tablet, mobile).
 
 Modern UI: A clean and user-friendly interface for a smooth experience.
 
+* Live Demo
+You can see the application live here: https://leoreyes07.github.io/Todo-Task-App/
+
 * Technologies Used
 
 React.js: A JavaScript library for building user interfaces.
