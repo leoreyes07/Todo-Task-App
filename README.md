@@ -1,37 +1,38 @@
 My new React To-Do App
 
-A simple and intuitive web application built with React.js to help you manage your daily tasks. Easily add new tasks and remove completed or unwanted ones with a clean user interface.
+* A simple and intuitive web application built with React.js to help you manage your daily tasks. Easily add new tasks and remove completed or unwanted ones with a clean user interface.
 
-* Features
+Features
 
-Add Tasks: Quickly add new to-do items to your list.
+* Add Tasks: Quickly add new to-do items to your list.
 
-Cancel Tasks: Delete tasks once they are completed or no longer needed.
+* Cancel Tasks: Delete tasks once they are completed or no longer needed.
 
-Responsive Design: Works well on various screen sizes (desktop, tablet, mobile).
+* Responsive Design: Works well on various screen sizes (desktop, tablet, mobile).
 
-Modern UI: A clean and user-friendly interface for a smooth experience.
+* Modern UI: A clean and user-friendly interface for a smooth experience.
 
-* Live Demo
-You can see the application live here: https://leoreyes07.github.io/Todo-Task-App/
+Live Demo
 
-* Technologies Used
+* You can see the application live here: https://leoreyes07.github.io/Todo-Task-App/
 
-React.js: A JavaScript library for building user interfaces.
+Technologies Used
 
-HTML5: For structuring the web content.
+* React.js: A JavaScript library for building user interfaces.
 
-CSS3: For styling the application.
+* HTML5: For structuring the web content.
 
-(Optional: Add any specific CSS frameworks like Tailwind CSS, or UI libraries like Material UI, if used)
+* CSS3: For styling the application.
 
-* Installation & Setup
+* (Optional: Add any specific CSS frameworks like Tailwind CSS, or UI libraries like Material UI, if used)
 
-To get this project up and running on your local machine, follow these steps:
+Installation & Setup
 
-Clone the repository:
+* To get this project up and running on your local machine, follow these steps:
 
-git clone https://github.com/leoreyes07/Todo-Task-App.git
+* Clone the repository:
+
+* git clone https://github.com/leoreyes07/Todo-Task-App.git
 
 
 Navigate to the project directory:
