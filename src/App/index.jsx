@@ -30,6 +30,7 @@ function App() {
     searchValue,
     setSearchValue,
     addTodo,
+    syncTodos,
   } = useTodos();
 
   return (
@@ -57,15 +58,7 @@ function App() {
         onLoading={() => <TodoLoading />}
         onEmptyTodos={() => <EmptyTodo />}
         onEmptySearchresults={(searchText) => <p>There is no results for {searchText}</p>}
-      /*         render={todo => (
-                <TodoItem
-                  key={todo.text}
-                  text={todo.text}
-                  completed={todo.completed}
-                  onComplete={() => completeTodo(todo.text)}
-                  onDelete={() => deleteTodo(todo.text)}
-                />
-              )} */
+
       >
         {todo => (
           <TodoItem
@@ -92,7 +85,9 @@ function App() {
         </Modal>
       )}
 
-      <ChangeAlertWithStorageListener />
+      <ChangeAlertWithStorageListener 
+        syncTodos={syncTodos}
+      />
 
     </React.Fragment>
   );
